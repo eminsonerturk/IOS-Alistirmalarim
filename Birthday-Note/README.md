@@ -1,1 +1,3 @@
-# ST-06.Birthday-Note
+# Birthday Note
+
+Burada küçük boyutlu bilgilerin telefonun kaybetmeyeceği şekilde depolanmasıyla ilgili bir alıştırma yapılmıştır.
